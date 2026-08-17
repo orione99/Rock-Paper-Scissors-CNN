@@ -46,6 +46,7 @@ pip install tensorflow scikit-learn numpy matplotlib
 .
 ├── progetto_paper_rock_scissor.ipynb   # Main notebook: data extraction, CNN model training, and evaluation
 ├── test_con_immagini_esterne.ipynb     # Notebook for inference and testing on custom external images
+├── examples_images                     # To demonstrate the model's generalization capabilities on real-world data
 ├── README.md                           # Detailed project documentation
 ├── training_performance.png            # Saved Loss & Accuracy evaluation curves
 ├── .gitignore                          # Git exclusion rules for large files

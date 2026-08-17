@@ -1,0 +1,4 @@
+*.zip
+*.keras
+__pycache__/
+.vscode/

@@ -27,7 +27,7 @@ This repository contains a complete deep learning workflow, including automated 
 * **NumPy**: Numerical operations
 * **Matplotlib**: Performance plotting
 
-- Link for download -
+- Link for dataset -
 
 TRAIN_AND_VAL_URL = "https://storage.googleapis.com/download.tensorflow.org/data/rps.zip"
 TEST_URL = "https://storage.googleapis.com/download.tensorflow.org/data/rps-test-set.zip"
